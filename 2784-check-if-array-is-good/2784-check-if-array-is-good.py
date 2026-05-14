@@ -2,10 +2,12 @@ class Solution:
     def isGood(self, nums: list[int]) -> bool:
         n = len(nums)
 
-        ans_list = [i for i in range(1, n+1)]
-        ans_list[-1] = n - 1
+        count = [0] * n
 
-        nums.sort()
-        ans = nums == ans_list
+        for num in nums:
+            if num > n - 1: return False
+            if num == n - 1 and count[num] > 1: return False
+            if num < n - 1 and count[num] > 0: return False
+            count[num] += 1
 
-        return ans
+        return True
