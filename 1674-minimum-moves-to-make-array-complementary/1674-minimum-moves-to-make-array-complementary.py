@@ -2,7 +2,10 @@ class Solution:
     def minMoves(self, nums: list[int], limit: int) -> int:
         n = len(nums)
         m = n // 2
-        
+
+        # 차분 합 배열
+        # diff[i] = 합이 i일 때 필요한 움직임(modification) 수
+        # i <= [0, 1, 2, ... , 2 * limit, 2 * limit + 1]
         diff = [0] * (2 * limit + 2)
 
         for i in range(m):
