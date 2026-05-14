@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
+| [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
 ## Dynamic Programming
 |  |
@@ -30,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Prefix Sum
 |  |
 | ------- |
