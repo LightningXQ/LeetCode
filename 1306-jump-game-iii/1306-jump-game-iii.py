@@ -1,7 +1,7 @@
 class Solution:
     def canReach(self, arr: list[int], start: int) -> bool:
         n = len(arr)
-        
+        # just stupid annotation
         visited = set()
         curr = [start]
 
