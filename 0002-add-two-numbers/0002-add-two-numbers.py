@@ -11,8 +11,8 @@ class Solution:
         :rtype: Optional[ListNode]
         """
         
-        dummy_head = ListNode(None)
-        current = dummy_head
+        dummy = ListNode(None)
+        current = dummy
         carry = 0
 
         while l1 or l2 or carry:
@@ -33,5 +33,5 @@ class Solution:
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
 
-        return dummy_head.next
+        return dummy.next
         
