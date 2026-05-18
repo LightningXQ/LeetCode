@@ -1,7 +1,6 @@
 class Solution:
     def canReach(self, arr: list[int], start: int) -> bool:
         n = len(arr)
-
         visited = set()
         curr = [start]
 
