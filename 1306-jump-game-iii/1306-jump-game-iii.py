@@ -1,5 +1,8 @@
 class Solution:
     def canReach(self, arr: list[int], start: int) -> bool:
+        dump_arr = [[i for i in range(1000)] for j in range(1000)]
+
+
         n = len(arr)
 
         visited = set()
