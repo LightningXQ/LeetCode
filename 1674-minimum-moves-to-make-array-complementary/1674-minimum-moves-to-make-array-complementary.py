@@ -3,8 +3,8 @@ class Solution:
         n = len(nums)
         m = n // 2
 
-        # 차분 합 배열
-        # diff[i] = 합이 i일 때 필요한 움직임(modification) 수
+        # difference array
+        # diff[i] = number of modifications required when the sum is i
         # i <= [0, 1, 2, ... , 2 * limit, 2 * limit + 1]
         diff = [0] * (2 * limit + 2)
 
