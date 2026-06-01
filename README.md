@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2540-minimum-common-value](https://github.com/LightningXQ/LeetCode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LightningXQ/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LightningXQ/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -35,10 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
