@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LightningXQ/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
