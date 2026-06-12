@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/LightningXQ/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
