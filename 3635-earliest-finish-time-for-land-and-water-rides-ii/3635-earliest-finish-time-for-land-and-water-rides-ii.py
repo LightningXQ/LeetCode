@@ -1,41 +1,24 @@
 class Solution:
-    def earliestFinishTime(self, landStartTime: list[int], landDuration: list[int], waterStartTime: list[int],
-                           waterDuration: list[int]) -> int:
-        land_to_water = None
-        water_to_land = None
+    def earliestFinishTime(
+        self,
+        landStartTime: List[int],
+        landDuration: List[int],
+        waterStartTime: List[int],
+        waterDuration: List[int],
+    ) -> int:
+        def solve(start1, duration1, start2, duration2):
+            finish1 = inf
+            for i in range(len(start1)):
+                finish1 = min(finish1, start1[i] + duration1[i])
+            finish2 = inf
+            for i in range(len(start2)):
+                finish2 = min(finish2, max(start2[i], finish1) + duration2[i])
+            return finish2
 
-        # land => water
-        l_end = 200001
-        w_end = 300001
-
-        for l_s_t, l_d in zip(landStartTime, landDuration):
-            if l_end > l_s_t + l_d:
-                l_end = l_s_t + l_d
-
-        for w_s_t, w_d in zip(waterStartTime, waterDuration):
-            if l_end > w_s_t:
-                w_s_t = l_end
-
-            if w_end > w_s_t + w_d:
-                w_end = w_s_t + w_d
-
-        land_to_water = w_end
-
-        # water => land
-        l_end = 300001
-        w_end = 200001
-
-        for w_s_t, w_d in zip(waterStartTime, waterDuration):
-            if w_end > w_s_t + w_d:
-                w_end = w_s_t + w_d
-
-        for l_s_t, l_d in zip(landStartTime, landDuration):
-            if w_end > l_s_t:
-                l_s_t = w_end
-
-            if l_end > l_s_t + l_d:
-                l_end = l_s_t + l_d
-
-        water_to_land = l_end
-
-        return min(land_to_water, water_to_land)
+        land_water = solve(
+            landStartTime, landDuration, waterStartTime, waterDuration
+        )
+        water_land = solve(
+            waterStartTime, waterDuration, landStartTime, landDuration
+        )
+        return min(land_water, water_land)
