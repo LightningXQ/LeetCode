@@ -19,7 +19,7 @@ class Solution:
         mx = 2
         while slow:
             tmp = lst[pivot] + slow.val
-            mx = max(mx, tmp)
+            mx = mx if mx > tmp else tmp
             pivot -= 1
             slow = slow.next
 
