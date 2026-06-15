@@ -1,15 +1,24 @@
 class Solution:
     def assignEdgeWeights(self, edges: list[list[int]]) -> int:
         n = len(edges)
-
-        edges.sort(key=lambda x: min(x[0], x[1]))
-
-        depths = [0] * (n + 2)
-        max_depth = 0
+        graph = list(set() for _ in range(n + 2))
+        visited = set()
 
         for i, j in edges:
-            if i > j: i, j = j, i
-            depths[j] = depths[i] + 1
-            if depths[j] > max_depth: max_depth = depths[j]
+            graph[i].add(j)
+            graph[j].add(i)
+
+        max_depth = 0
+        def dfs(g, node, depth):
+            visited.add(node)
+            depth += 1
+            children = g[node] - visited
+            for x in children:
+                nonlocal max_depth
+                max_depth = max(max_depth, depth)
+                dfs(g, x, depth)
+            depth -= 1
+
+        dfs(graph, 1, 0)
 
         return pow(2, max_depth - 1, 10 ** 9 + 7)
