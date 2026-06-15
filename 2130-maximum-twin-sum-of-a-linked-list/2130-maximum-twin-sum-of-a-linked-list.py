@@ -16,9 +16,11 @@ class Solution:
             fast = fast.next.next
 
         pivot = -1
+        mx = 2
         while slow:
-            lst[pivot] += slow.val
+            tmp = lst[pivot] + slow.val
+            mx = max(mx, tmp)
             pivot -= 1
             slow = slow.next
 
-        return max(lst)
+        return mx
