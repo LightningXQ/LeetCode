@@ -13,7 +13,9 @@ class Solution:
                 l_end = l_s_t + l_d
 
         for w_s_t, w_d in zip(waterStartTime, waterDuration):
-            w_s_t = max(l_end, w_s_t)
+            if l_end > w_s_t:
+                w_s_t = l_end
+
             if w_end > w_s_t + w_d:
                 w_end = w_s_t + w_d
 
@@ -28,7 +30,9 @@ class Solution:
                 w_end = w_s_t + w_d
 
         for l_s_t, l_d in zip(landStartTime, landDuration):
-            l_s_t = max(w_end, l_s_t)
+            if w_end > l_s_t:
+                l_s_t = w_end
+
             if l_end > l_s_t + l_d:
                 l_end = l_s_t + l_d
 
