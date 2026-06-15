@@ -6,7 +6,7 @@
 
 class Solution:
     def deleteMiddle(self, head: ListNode | None) -> ListNode | None:
-        if not head: return None
+        if not head or not head.next: return None
 
         n = 0
         curr = head
@@ -17,15 +17,10 @@ class Solution:
 
         m = n // 2
         curr = head
-        dummy_head = ListNode()
-        tail = dummy_head
 
-        for i in range(n):
-            if i == m:
-                curr = curr.next
-                continue
-            tail.next = ListNode(curr.val, None)
+        curr = head
+        for i in range(m - 1):
             curr = curr.next
-            tail = tail.next
+        curr.next = curr.next.next
 
-        return dummy_head.next
+        return head
