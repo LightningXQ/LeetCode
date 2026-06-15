@@ -6,17 +6,19 @@
 
 class Solution:
     def pairSum(self, head: ListNode | None) -> int:
+        slow = head
+        fast = head
         lst = list()
-        while head:
-            lst.append(head.val)
-            head = head.next
 
-        n = len(lst)
-        mx = 2
+        while fast:
+            lst.append(slow.val)
+            slow = slow.next
+            fast = fast.next.next
 
-        for i in range(n):
-            if i > n // 2: break
-            val = lst[i] + lst[n - i - 1]
-            mx = max(mx, val)
+        pivot = -1
+        while slow:
+            lst[pivot] += slow.val
+            pivot -= 1
+            slow = slow.next
 
-        return mx
+        return max(lst)
