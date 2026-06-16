@@ -4,9 +4,9 @@ class Solution:
 
         for ch in s:
             if ch == '*':
-                if len(result): result.pop()
+                if result: result.pop()
             elif ch == '#':
-                result += result
+                result += result.copy()
             elif ch == '%':
                 result = result[::-1]
             else: result.append(ch)
