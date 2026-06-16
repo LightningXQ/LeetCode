@@ -3,12 +3,12 @@ class Solution:
         result = list()
 
         for ch in s:
+            if ch.islower(): result.append(ch)
             if ch == '*':
                 if result: result.pop()
-            elif ch == '#':
-                result += result.copy()
-            elif ch == '%':
-                result = result[::-1]
-            else: result.append(ch)
+            if ch == '#':
+                result += result
+            if ch == '%':
+                result.reverse()
 
         return ''.join(result)
