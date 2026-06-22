@@ -1,7 +1,5 @@
 class Solution:
     def maxBuilding(self, n: int, restrictions: list[list[int]]) -> int:
-        if not restrictions: return n - 1
-
         restrictions.append([1, 0])
         restrictions.sort(key=lambda a: a[0])
 
