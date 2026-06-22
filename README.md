@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/LightningXQ/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/LightningXQ/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
 | [2126-destroying-asteroids](https://github.com/LightningXQ/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/LightningXQ/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [2126-destroying-asteroids](https://github.com/LightningXQ/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
