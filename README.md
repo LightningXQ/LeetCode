@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/LightningXQ/LeetCode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/LightningXQ/LeetCode/tree/master/0009-palindrome-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
