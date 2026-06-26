@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LightningXQ/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/LightningXQ/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/LightningXQ/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1189-maximum-number-of-balloons](https://github.com/LightningXQ/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/LightningXQ/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LightningXQ/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
