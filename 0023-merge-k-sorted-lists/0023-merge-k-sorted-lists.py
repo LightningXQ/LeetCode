@@ -3,6 +3,8 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
+
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
         if not lists or not any(lists): return None
@@ -22,8 +24,8 @@ class Solution:
                     min_val_idx = i
 
             if min_val == 10 ** 4 + 1: break
-            result.append(min_val)
 
+            result.append(min_val)
             lists[min_val_idx] = lists[min_val_idx].next
 
         head = ListNode()
@@ -36,4 +38,3 @@ class Solution:
             current.val = e
             
         return head
-
