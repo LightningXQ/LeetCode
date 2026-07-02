@@ -17,6 +17,7 @@ class Solution:
                 nx, ny = x + dx, y + dy
                 if 0 <= nx < m and 0 <= ny < n:
                     new_dist = dist[x][y] + grid[nx][ny]
+                    if new_dist >= health: continue
                     if dist[nx][ny] > new_dist:
                         dist[nx][ny] = new_dist
                         if dist[nx][ny] == 1:
