@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/LightningXQ/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LightningXQ/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/LightningXQ/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/LightningXQ/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,4 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LightningXQ/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
