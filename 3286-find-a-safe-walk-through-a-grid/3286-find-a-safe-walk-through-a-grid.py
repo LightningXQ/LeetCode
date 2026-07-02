@@ -12,6 +12,7 @@ class Solution:
 
         while dq:
             x, y = dq.popleft()
+            if x == m - 1 and y == n - 1: return True
             # up, down, left, right node from current node
             for dx, dy in [(0, 1), (0, -1), (1, 0), (-1, 0)]:
                 nx, ny = x + dx, y + dy
