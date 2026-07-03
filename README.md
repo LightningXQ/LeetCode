@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/LightningXQ/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/LightningXQ/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/LightningXQ/LeetCode/tree/master/0015-3sum) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LightningXQ/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LightningXQ/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/LightningXQ/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/LightningXQ/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/LightningXQ/LeetCode/tree/master/0015-3sum) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LightningXQ/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LightningXQ/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/LightningXQ/LeetCode/tree/master/0015-3sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/LightningXQ/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
