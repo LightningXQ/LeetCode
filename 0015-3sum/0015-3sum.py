@@ -4,7 +4,10 @@ class Solution:
         nums.sort()
         result = list()
         for i in range(n - 2):
+            if nums[i] > 0: break
             if i > 0 and nums[i] == nums[i - 1]: continue
+            if nums[i] + nums[i + 1] + nums[i + 2] > 0: break
+            if nums[i] + nums[n - 1] + nums[n - 2] < 0: continue
 
             l, r = i + 1, n - 1
             while l < r:
