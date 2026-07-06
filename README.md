@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LightningXQ/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2121-intervals-between-identical-elements](https://github.com/LightningXQ/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/LightningXQ/LeetCode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/LightningXQ/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LightningXQ/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LightningXQ/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2121-intervals-between-identical-elements](https://github.com/LightningXQ/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/LightningXQ/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/LightningXQ/LeetCode/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/LightningXQ/LeetCode/tree/master/2615-sum-of-distances) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/LightningXQ/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [2121-intervals-between-identical-elements](https://github.com/LightningXQ/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/LightningXQ/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/LightningXQ/LeetCode/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LightningXQ/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
