@@ -3,10 +3,8 @@ class Solution:
         n = len(nums)
         pivot = 0
         for i in range(1, n):
-            prv, cur = nums[pivot], nums[i]
-            if prv == cur: continue
-            else:
+            if nums[pivot] != nums[i]:
                 pivot += 1
-                nums[pivot] = cur
+                nums[pivot] = nums[i]
             
         return pivot + 1
