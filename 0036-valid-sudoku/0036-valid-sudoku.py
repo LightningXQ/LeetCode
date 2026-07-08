@@ -1,5 +1,6 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        # I just wanted to try declaring && assigning a 3D list, even if it compromises code readability.
         # rows = [[False] * 9 for _ in range(9)]
         # cols = [[False] * 9 for _ in range(9)]
         # secs = [[False] * 9 for _ in range(9)]
