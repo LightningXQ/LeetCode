@@ -2,14 +2,23 @@ class Solution:
     def countAndSay(self, n: int) -> str:
         def cycle(target: str) -> str:
             result = ""
+            prev = ""
+            counter = 0
 
             for elm in target:
-                counter = 0
-                if not result or result[-1] != elm:
-                    result += "1" + elm
+                if prev == "":
+                    prev = elm
+                    counter += 1
+                    continue
+                
+                if elm == prev:
+                    counter += 1
                 else:
-                    result, (count, num) = result[:-2], result[-2:]
-                    result += str(int(count) + 1) + num
+                    result += str(counter) + prev
+                    prev = elm 
+                    counter = 1
+            
+            result += str(counter) + prev
             
             return result
         
