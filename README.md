@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/LightningXQ/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/LightningXQ/LeetCode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/LightningXQ/LeetCode/tree/master/0190-reverse-bits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LightningXQ/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LightningXQ/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/LightningXQ/LeetCode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LightningXQ/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
