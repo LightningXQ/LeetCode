@@ -1,6 +1,3 @@
-from bisect import bisect_left, bisect_right
-
-
 class Solution:
     def pathExistenceQueries(self, n: int, nums: List[int], maxDiff: int, queries: List[List[int]]) -> List[bool]:
         g = [0] * n
