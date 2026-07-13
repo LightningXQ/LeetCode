@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LightningXQ/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LightningXQ/LeetCode/tree/master/0015-3sum) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/LightningXQ/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LightningXQ/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/LightningXQ/LeetCode/tree/master/0036-valid-sudoku) |
 | [1189-maximum-number-of-balloons](https://github.com/LightningXQ/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LightningXQ/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
