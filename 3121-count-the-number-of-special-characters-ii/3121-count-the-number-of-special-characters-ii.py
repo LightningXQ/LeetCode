@@ -1,16 +1,15 @@
 class Solution:
     def numberOfSpecialChars(self, word: str) -> int:
-        states = [0] * 26
+        result = 0
 
-        for elm in range(26):
-            small, large = chr(elm + 97), chr(elm + 65)
+        for i in range(26):
+            small, big = chr(i + 97), chr(i + 65)
+            
+            l = word.find(small)
+            m = word.find(big)
+            r = word[m:].find(small)
+            print(l, m, r)
 
-            for c in word:
-                if c == small:
-                    if states[elm] == 0: states[elm] = 1
-                    if states[elm] == 2: states[elm] = 3
-                if c == large:
-                    if states[elm] == 0: states[elm] = 3
-                    if states[elm] == 1: states[elm] = 2
+            if l != -1 and m != -1 and r == -1: result += 1
         
-        return states.count(2)
+        return result
