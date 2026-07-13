@@ -2,7 +2,6 @@ class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
         result = list()
         line = list()
-        len_count = 0
         word_count = 0
         char_count = 0
 
