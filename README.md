@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LightningXQ/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/LightningXQ/LeetCode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/LightningXQ/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/LightningXQ/LeetCode/tree/master/0068-text-justification) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/LightningXQ/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/LightningXQ/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LightningXQ/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/LightningXQ/LeetCode/tree/master/0068-text-justification) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LightningXQ/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LightningXQ/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/LightningXQ/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/LightningXQ/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/LightningXQ/LeetCode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/LightningXQ/LeetCode/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/LightningXQ/LeetCode/tree/master/0068-text-justification) |
 | [1189-maximum-number-of-balloons](https://github.com/LightningXQ/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LightningXQ/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LightningXQ/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
