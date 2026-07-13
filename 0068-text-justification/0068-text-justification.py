@@ -1,53 +1,55 @@
 class Solution:
     def fullJustify(self, words: List[str], maxWidth: int) -> List[str]:
         result = list()
-        temp = list()
-        counter = 0
+        line = list()
+        len_count = 0
+        word_count = 0
+        char_count = 0
 
         for w in words:
-            n = len(w)
+            prev_width = char_count + word_count - 1
+            curr_width = char_count + word_count + len(w)
 
-            if counter + len(temp) + n > maxWidth:
-                margin = maxWidth - counter
-                spacings = len(temp) - 1
+            if curr_width > maxWidth:
+                margin = maxWidth - char_count
+                spacings = word_count - 1
 
                 if spacings:
-                    q = margin // spacings
-                    r = margin % spacings
+                    base = margin // spacings
+                    offset = margin % spacings
 
-                    s = [q] * spacings
-                    s[0:r] = [i + 1 for i in s[0:r]]
+                    spaces = [base] * spacings
+                    spaces[0:offset] = [i + 1 for i in spaces[0:offset]]
 
-                    concat = ""
-                    for i in range(spacings):
-                        concat += temp[i]
-                        concat += (" " * s[i])
-                    concat += temp[-1]
+                    string = ""
+                    for word, space in zip(line, spaces):
+                        string += word
+                        string += " " * space
+                    string += line[-1]
                 else:
-                    concat = ""
-                    concat += temp[0]
-                    concat += (" " * (margin))
+                    string = ""
+                    string += line[0]
+                    string += " " * margin
 
-                result.append(concat)
+                result.append(string)
 
-                counter = 0
-                temp = list()
+                char_count = word_count = 0
+                line = list()
             
-            counter += n
-            temp.append(w)
+            char_count += len(w)
+            word_count += 1
+            line.append(w)
 
-        concat = ""
-        counter = 0
-        for w in temp[:-1]:
-            counter += len(w) + 1
-            concat += w
-            concat += " "
-        counter += len(temp[-1])
-        concat += temp[-1]
+        string = ""
+        for w in line[:-1]:
+            string += w
+            string += " "
+        string += line[-1]
 
-        concat += " " * (maxWidth - counter)
+        count = char_count + word_count - 1
+        string += " " * (maxWidth - count)
 
-        result.append(concat)
+        result.append(string)
         
         return result
             
