@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/LightningXQ/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LightningXQ/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2121-intervals-between-identical-elements](https://github.com/LightningXQ/LeetCode/tree/master/2121-intervals-between-identical-elements) |
 | [2126-destroying-asteroids](https://github.com/LightningXQ/LeetCode/tree/master/2126-destroying-asteroids) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LightningXQ/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/LightningXQ/LeetCode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/LightningXQ/LeetCode/tree/master/0068-text-justification) |
+| [1914-cyclically-rotating-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LightningXQ/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2553-separate-the-digits-in-an-array](https://github.com/LightningXQ/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3612-process-string-with-special-operations-i](https://github.com/LightningXQ/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
