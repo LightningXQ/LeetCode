@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/LightningXQ/LeetCode/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LightningXQ/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/LightningXQ/LeetCode/tree/master/2784-check-if-array-is-good) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/LightningXQ/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LightningXQ/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LightningXQ/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LightningXQ/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/LightningXQ/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LightningXQ/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LightningXQ/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/LightningXQ/LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LightningXQ/LeetCode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/LightningXQ/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LightningXQ/LeetCode/tree/master/3614-process-string-with-special-operations-ii) |
