@@ -5,8 +5,7 @@ class Solution:
 
         while True:
             if num > n: break
-            zeros += n // num
-            
+            zeros += n // num 
             num *= 5
 
         return zeros
