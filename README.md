@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/LightningXQ/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LightningXQ/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/LightningXQ/LeetCode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LightningXQ/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
