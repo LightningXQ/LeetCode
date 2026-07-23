@@ -1,8 +1,12 @@
 class Solution:
     def trailingZeroes(self, n: int) -> int:
         zeros = 0
+        num = 5
 
-        for i in range(1, 6):
-            zeros += n // (5 ** i)
+        while True:
+            if num > n: break
+            zeros += n // num
+            
+            num *= 5
 
         return zeros
