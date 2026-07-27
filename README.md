@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/LightningXQ/LeetCode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/LightningXQ/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/LightningXQ/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/LightningXQ/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0120-triangle](https://github.com/LightningXQ/LeetCode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LightningXQ/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/LightningXQ/LeetCode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/LightningXQ/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [1861-rotating-the-box](https://github.com/LightningXQ/LeetCode/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/1914-cyclically-rotating-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
