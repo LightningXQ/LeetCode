@@ -6,11 +6,12 @@ class Solution:
 
         for c in s[0:n // 2]:
             d[ord(c) - a] += 1
-        
-        string = ""
+
+        parts = []
         for i in range(26):
-            string += (chr(i + a) * d[i])
-        
-        if n % 2: return string + s[n // 2] + string[::-1]
-        else: return string + string[::-1]
-        
+            parts.append(chr(i + a) * d[i])
+
+        half = "".join(parts)
+
+        if n % 2:   return half + s[n // 2] + half[::-1]
+        else:       return half + half[::-1]
