@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/LightningXQ/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/LightningXQ/LeetCode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/LightningXQ/LeetCode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LightningXQ/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/LightningXQ/LeetCode/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LightningXQ/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LightningXQ/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Stack
 |  |
