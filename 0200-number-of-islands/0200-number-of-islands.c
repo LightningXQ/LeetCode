@@ -11,15 +11,43 @@ int numIslands(char** grid, int gridSize, int* gridColSize) {
         }
     }
 
-    int result = 0;
-    for (int x = 0; x < m; x++) {
-        for (int y = 0; y < n; y++) {
-            if (grid[x][y] == '1') {
-                result++;
-                dfs(x, y);
-            }
-        }
-    }
+    int   
+                 result 
+    =     0               
+                   ;for 
+(  int
+ x =  
+                                        0
+ ;   x 
+ 
+ <  m         ; x             
+    ++     )
+     {
+        for 
+          
+            (             int y 
+           = 0; y
+    < n
+                             ; 
+    y  ++  
+) {
+            if        (
+    grid      [      x
+    ]        
+                     [          
+            y]
+     ==   
+             '1' ) 
+{
+                result
+        ++   
+        ;  dfs       
+        (    
+                x   , 
+            y  ) 
+            ;
+ }   }
+                          }
 
-    return result;
-}
+    return
+ result           ;  }
