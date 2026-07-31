@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LightningXQ/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LightningXQ/LeetCode/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/LightningXQ/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/LightningXQ/LeetCode/tree/master/0207-course-schedule) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LightningXQ/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Linked List
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/LightningXQ/LeetCode/tree/master/0207-course-schedule) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LightningXQ/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/LightningXQ/LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
@@ -392,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/LightningXQ/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/LightningXQ/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
