@@ -1,29 +1,19 @@
-from functools import lru_cache
-
-
 class Solution:
     def stoneGameIII(self, stoneValue: list[int]) -> str:
         n = len(stoneValue)
+        dp1 = dp2 = dp3 = 0
 
-        @lru_cache(maxsize=None)
-        def travel(pos: int , sign: int) -> int:
-            if pos + 2 < n:
-                one = sum(stoneValue[pos:pos + 1]) * sign + travel(pos + 1, sign * -1)
-                two = sum(stoneValue[pos:pos + 2]) * sign + travel(pos + 2, sign * -1)
-                three = sum(stoneValue[pos:pos + 3]) * sign + travel(pos + 3, sign * -1)
-                if sign == 1: return max(one, two, three)
-                else: return min(one, two, three)
-            elif pos + 1 < n:
-                one = sum(stoneValue[pos:pos + 1]) * sign + travel(pos + 1, sign * -1)
-                two = sum(stoneValue[pos:pos + 2]) * sign + travel(pos + 2, sign * -1)
-                if sign == 1: return max(one, two)
-                else: return min(one, two)
-            elif pos < n:
-                return sum(stoneValue[pos:pos + 1]) * sign
-            else: return 0
+        for i in range(n - 1, -1, -1):
+            current_sum = 0
+            best = float('-inf')
+            for k in range(1, 4):
+                if i + k > n: break
+                current_sum += stoneValue[i + k - 1]
+                best = max(best, current_sum - [dp1, dp2, dp3][k - 1])
+            dp1, dp2, dp3 = best, dp1, dp2
 
-        result = travel(0, 1)
+        if dp1 > 0: return "Alice"
+        elif dp1 == 0: return "Tie"
+        else: return "Bob"
 
-        if result > 0: return "Alice"
-        elif result == 0: return "Tie"
-        elif result < 1: return "Bob"
+
