@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/LightningXQ/LeetCode/tree/master/1345-jump-game-iv) |
+| [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LightningXQ/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/LightningXQ/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/LightningXQ/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LightningXQ/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/LightningXQ/LeetCode/tree/master/0198-house-robber) |
+| [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/LightningXQ/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/LightningXQ/LeetCode/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LightningXQ/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LightningXQ/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/LightningXQ/LeetCode/tree/master/0207-course-schedule) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
