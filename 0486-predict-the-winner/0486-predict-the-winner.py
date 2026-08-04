@@ -3,7 +3,7 @@ class Solution:
         n = len(nums)
         if n % 2 == 0: return True
 
-        @lru_cache
+        @lru_cache(maxsize=None)
         def solve(l, r):
             if l == r: return nums[l]
             return max(nums[l] - solve(l + 1, r), nums[r] - solve(l, r - 1))
