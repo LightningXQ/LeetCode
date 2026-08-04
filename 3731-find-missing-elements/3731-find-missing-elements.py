@@ -1,16 +1,16 @@
 class Solution:
     def findMissingElements(self, nums: List[int]) -> List[int]:
-        if not nums: return list()
-            
-        l, h = min(nums), max(nums)
-        bit_flags = 0
+        n = len(nums)
+        l, h = 101, 0
+        elms = [False] * 101
 
         for num in nums:
-            bit_flags |= (1 << (num - l))
+            if num > h: h = num
+            if num < l: l = num
+            elms[num] = True
         
-        result = []
-        for i in range(h - l + 1):
-            if not (bit_flags & (1 << i)):
-                result.append(l + i)
+        result = list()
+        for i in range(l, h + 1):
+            if not elms[i]: result.append(i)
         
-        return result
+        return result   
