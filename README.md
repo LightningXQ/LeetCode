@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/LightningXQ/LeetCode/tree/master/0223-rectangle-area) |
 | [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -426,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/LightningXQ/LeetCode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
