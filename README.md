@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/LightningXQ/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/LightningXQ/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/LightningXQ/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1306-jump-game-iii) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LightningXQ/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/LightningXQ/LeetCode/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
 | [3660-jump-game-ix](https://github.com/LightningXQ/LeetCode/tree/master/3660-jump-game-ix) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/LightningXQ/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/LightningXQ/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -411,6 +415,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
