@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LightningXQ/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0174-dungeon-game](https://github.com/LightningXQ/LeetCode/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/LightningXQ/LeetCode/tree/master/0198-house-robber) |
+| [0233-number-of-digit-one](https://github.com/LightningXQ/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/LightningXQ/LeetCode/tree/master/1406-stone-game-iii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LightningXQ/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/LightningXQ/LeetCode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/LightningXQ/LeetCode/tree/master/0223-rectangle-area) |
+| [0233-number-of-digit-one](https://github.com/LightningXQ/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/LightningXQ/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LightningXQ/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/LightningXQ/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/LightningXQ/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0233-number-of-digit-one](https://github.com/LightningXQ/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/LightningXQ/LeetCode/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
